@@ -1,0 +1,22 @@
+[
+  { "id": 1, "name": "Samsung Galaxy Watch 4", "price": 25000 },
+  { "id": 2, "name": "Apple Watch Series 7", "price": 45000 },
+  { "id": 3, "name": "Fossil Gen 5", "price": 22000 },
+  { "id": 4, "name": "Garmin Venu Sq", "price": 30000 },
+  { "id": 5, "name": "Amazfit Bip U Pro", "price": 9000 },
+  { "id": 6, "name": "Huawei Watch GT 2", "price": 22000 },
+  { "id": 7, "name": "Fitbit Versa 3", "price": 20000 },
+  { "id": 8, "name": "TicWatch Pro 3", "price": 35000 },
+  { "id": 9, "name": "Realme Watch S Pro", "price": 15000 },
+  { "id": 10, "name": "Xiaomi Mi Watch", "price": 12000 },
+  { "id": 11, "name": "Suunto 7", "price": 30000 },
+  { "id": 12, "name": "Mobvoi TicWatch E3", "price": 18000 },
+  { "id": 13, "name": "Withings Steel HR", "price": 15000 },
+  { "id": 14, "name": "Honor Magic Watch 2", "price": 15000 },
+  { "id": 15, "name": "Oppo Watch", "price": 25000 },
+  { "id": 16, "name": "Garmin Forerunner 245", "price": 27000 },
+  { "id": 17, "name": "Vivoactive 4", "price": 26000 },
+  { "id": 18, "name": "Fitbit Sense", "price": 30000 },
+  { "id": 19, "name": "Skagen Falster 3", "price": 20000 },
+  { "id": 20, "name": "Amazfit GTS 2", "price": 18000 }
+]
